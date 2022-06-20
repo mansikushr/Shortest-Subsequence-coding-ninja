@@ -1,0 +1,22 @@
+# Shortest-Subsequence-coding-ninja
+from sys import stdin , setrecursionlimit
+setrecursionlimit(10**8)
+
+def allWays(x, n) :
+    # Write your code here
+    pass
+
+
+
+
+
+
+
+
+
+
+
+
+# Main
+a,b = [int(x) for x in stdin.readline().strip().split()] 
+print(allWays(a,b))
